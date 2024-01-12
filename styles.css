@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#height {
+    background-color: #212121;
+    color: #ffffff;
+    border-radius: 5px;
+}
+#weight {
+    background-color: #212121;
+    color: #ffffff;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+
+.container {
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+
+
